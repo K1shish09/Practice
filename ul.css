@@ -1,0 +1,10 @@
+ul li{
+	float:left;
+	list-style: none;
+	padding:20px 25px;
+	border-left:9px solid #000;
+	border-right: 5px palevioletred;
+	border-top: 9px dotted burlywood;
+	border-bottom: 5px double rebeccapurple;
+	margin: 10px;
+}
